@@ -3,3 +3,4 @@
 **/obj
 *.userprefs
 *Swift*.nuspec
+.DS_Store
